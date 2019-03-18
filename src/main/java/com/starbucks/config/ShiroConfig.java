@@ -15,7 +15,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 /**
-* @Author: Zhaojiatao
+* @Author: Amaya
 * @Description: Shiro配置类
 * @Date: Created in 2018/2/8 13:29
 * @param 

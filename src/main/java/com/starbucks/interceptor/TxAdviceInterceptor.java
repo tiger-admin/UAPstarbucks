@@ -17,7 +17,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author <a href="zhaojiatao"></a>
+ * @author <a href="Amaya"></a>
  * @version 1.0, 2017/11/29
  * @description
  * 注解声明式事务
